@@ -1,4 +1,5 @@
 # DEVELOPMENT MODE
+KEVIN JHOEL FLORES SARMIENTO
 
 1. Create your .venv folder with the next command
 ```cmd
@@ -16,6 +17,6 @@
 5. Write your API_KEY from openai to the .env
 6. Start the server with:
 ```bash
-    uvicorn app:app --reload
+    uvicorn src.app:app --reload
 ```
 by default start at port 8000
